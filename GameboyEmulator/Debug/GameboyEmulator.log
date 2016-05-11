@@ -1,0 +1,3 @@
+﻿  ROMLoad.cpp
+c:\users\xblem\dropbox\documents\senior project\gameboyemulator\gameboyemulator\romload.cpp(90): warning C4244: 'argument': conversion from 'std::streamoff' to 'size_t', possible loss of data
+  GameboyEmulator.vcxproj -> C:\Users\xblem\Dropbox\Documents\Senior Project\GameboyEmulator\Debug\GameboyEmulator.exe
